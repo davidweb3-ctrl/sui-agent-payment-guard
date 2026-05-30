@@ -51,13 +51,13 @@ The project is built for agentic commerce and payment automation: it does not cu
 Project repo:
 
 ```text
-Pending public GitHub repo
+https://github.com/davidweb3-ctrl/sui-agent-payment-guard
 ```
 
 Website:
 
 ```text
-Pending frontend deployment
+https://davidweb3-ctrl.github.io/sui-agent-payment-guard/
 ```
 
 Demo video:

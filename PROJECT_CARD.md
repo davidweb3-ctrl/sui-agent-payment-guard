@@ -30,6 +30,8 @@ Deployment network: Testnet
 Current artifacts:
 
 ```text
+Public GitHub repo: https://github.com/davidweb3-ctrl/sui-agent-payment-guard
+Public frontend: https://davidweb3-ctrl.github.io/sui-agent-payment-guard/
 Move package: move/
 Frontend: app/
 Logo source: assets/logo.svg
@@ -67,8 +69,6 @@ Sui testnet address:
 
 Still needed:
 
-- Public GitHub repo URL
-- Deployed frontend URL
 - Demo video URL
 - Final DeepSurge submission
 
@@ -84,5 +84,5 @@ Any repo, package publish, test result, deployment, video, submission, sponsor r
 Last synced:
 
 ```text
-2026-05-30 13:20 CST
+2026-05-30 14:35 CST
 ```
