@@ -7,3 +7,4 @@ move/build/
 .DS_Store
 sui.keystore
 *.log
+demo/raw/

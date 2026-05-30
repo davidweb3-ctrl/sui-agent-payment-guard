@@ -18,6 +18,7 @@ AI agents are starting to initiate swaps, payments, and API-driven financial act
 
 - Frontend: https://davidweb3-ctrl.github.io/sui-agent-payment-guard/
 - Repository: https://github.com/davidweb3-ctrl/sui-agent-payment-guard
+- Demo video: https://github.com/davidweb3-ctrl/sui-agent-payment-guard/raw/main/demo/sui-agent-payment-guard-demo.mp4
 
 ## Submission Plan
 
@@ -26,7 +27,7 @@ AI agents are starting to initiate swaps, payments, and API-driven financial act
 - Network: Sui testnet
 - Current package ID: `0x1ce6fad928570d68e70951e01e8f586e66692d34680216be915b47b7d7618999`
 - First receipt tx: `DVErKPpFTZNZCf7D4NXeChH7KFnwbWvPXFPFthLTzBkS`
-- Required DeepSurge fields still needed: demo video URL.
+- Required DeepSurge fields still needed: final form submission.
 
 ## Testnet Evidence
 

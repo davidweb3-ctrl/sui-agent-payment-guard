@@ -63,7 +63,7 @@ https://davidweb3-ctrl.github.io/sui-agent-payment-guard/
 Demo video:
 
 ```text
-Pending demo recording
+https://github.com/davidweb3-ctrl/sui-agent-payment-guard/raw/main/demo/sui-agent-payment-guard-demo.mp4
 ```
 
 ## Current Test Evidence
