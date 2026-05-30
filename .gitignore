@@ -8,3 +8,6 @@ move/build/
 sui.keystore
 *.log
 demo/raw/
+demo/work/
+demo/audio/*.aiff
+demo/audio/*.m4a

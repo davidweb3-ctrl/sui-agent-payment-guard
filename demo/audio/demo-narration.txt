@@ -1,0 +1,9 @@
+Sui Agent Payment Guard is a Sui Overflow 2026 project for safer AI-agent payments.
+
+The problem is simple. As autonomous agents begin requesting swaps, API payments, and workflow expenses, builders need a lightweight way to review a payment intent before value moves.
+
+This demo shows a non-custodial guardrail. The frontend receives an agent-generated payment request, checks the recipient, amount, policy limit, purpose, and model hash, and produces a deterministic risk review.
+
+When the intent is within policy, the Sui Move package records an auditable receipt on testnet. The receipt stores the recipient, asset, amount, policy limit, model hash, intent hash, risk score, approval result, and timestamp.
+
+The current package is deployed on Sui testnet, and the first receipt transaction has already been recorded. The project is designed for the Agentic Web track: safer agent workflows, transparent payment evidence, and no custody of user funds.
