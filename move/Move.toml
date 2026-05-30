@@ -1,0 +1,8 @@
+[package]
+name = "sui_agent_payment_guard"
+edition = "2024.beta"
+license = "MIT"
+authors = ["David Xia"]
+
+[addresses]
+sui_agent_payment_guard = "0x0"

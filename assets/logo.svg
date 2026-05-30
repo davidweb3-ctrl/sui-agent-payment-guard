@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Sui Agent Payment Guard logo</title>
+  <desc id="desc">A blue shield with a payment path and agent node.</desc>
+  <rect width="512" height="512" rx="96" fill="#07111f"/>
+  <path d="M256 54 406 112v112c0 95-58 181-150 234-92-53-150-139-150-234V112L256 54Z" fill="#22d3ee" opacity=".16"/>
+  <path d="M256 82 382 130v92c0 78-46 150-126 198-80-48-126-120-126-198v-92L256 82Z" fill="none" stroke="#38bdf8" stroke-width="22" stroke-linejoin="round"/>
+  <circle cx="205" cy="212" r="36" fill="#a7f3d0"/>
+  <circle cx="310" cy="212" r="36" fill="#60a5fa"/>
+  <path d="M208 288h104c28 0 50 22 50 50s-22 50-50 50H200" fill="none" stroke="#e0f2fe" stroke-width="24" stroke-linecap="round"/>
+  <path d="M214 332 174 288l40-44" fill="none" stroke="#e0f2fe" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M205 212h105" stroke="#07111f" stroke-width="20" stroke-linecap="round"/>
+  <text x="256" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#e0f2fe">SUI GUARD</text>
+</svg>

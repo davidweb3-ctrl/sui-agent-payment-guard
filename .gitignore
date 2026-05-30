@@ -1,0 +1,9 @@
+node_modules/
+dist/
+app/tsconfig.tsbuildinfo
+move/build/
+.env
+.env.*
+.DS_Store
+sui.keystore
+*.log
