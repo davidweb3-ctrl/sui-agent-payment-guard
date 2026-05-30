@@ -1,0 +1,1 @@
+The submission package is ready for DeepSurge. It includes a public repository, public frontend, Sui testnet package, and a recorded first receipt transaction. No custody or mainnet funds are required.

@@ -1,0 +1,1 @@
+The problem is simple. As autonomous agents request swaps, API payments, and workflow expenses, builders need lightweight proof that a payment intent was checked before value moved.

@@ -9,5 +9,7 @@ sui.keystore
 *.log
 demo/raw/
 demo/work/
-demo/audio/*.aiff
-demo/audio/*.m4a
+demo/audio/**/*.aiff
+demo/audio/**/*.m4a
+demo/rendered/narrated/
+demo/rendered/qc/

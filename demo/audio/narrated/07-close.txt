@@ -1,0 +1,1 @@
+Sui Agent Payment Guard is built for the Agentic Web track: safer autonomous commerce, transparent payment evidence, and a simple Sui-native pattern that other agent builders can reuse.

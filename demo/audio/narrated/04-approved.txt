@@ -1,0 +1,1 @@
+In this example, the payment is approved because the amount is below the configured policy limit and the risk score is low. Higher risk flows can be routed to manual review.

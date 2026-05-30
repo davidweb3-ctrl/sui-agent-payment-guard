@@ -1,0 +1,1 @@
+When approved, the Move package records the key review fields on Sui testnet: recipient, asset, amount, policy limit, model hash, intent hash, risk score, approval result, and timestamp.

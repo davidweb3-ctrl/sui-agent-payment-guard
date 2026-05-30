@@ -1,0 +1,1 @@
+The frontend receives the recipient, asset, amount, policy limit, purpose, and model hash. It scores the request and produces a deterministic intent hash for the payment review.

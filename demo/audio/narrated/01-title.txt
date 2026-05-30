@@ -1,0 +1,1 @@
+Sui Agent Payment Guard is a Sui Overflow 2026 project for safer AI-agent payments. It reviews agent generated payment intents before execution and records auditable policy evidence on Sui testnet.

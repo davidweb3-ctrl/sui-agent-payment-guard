@@ -32,7 +32,7 @@ Current artifacts:
 ```text
 Public GitHub repo: https://github.com/davidweb3-ctrl/sui-agent-payment-guard
 Public frontend: https://davidweb3-ctrl.github.io/sui-agent-payment-guard/
-Demo video: https://github.com/davidweb3-ctrl/sui-agent-payment-guard/raw/main/demo/sui-agent-payment-guard-demo.mp4 (`61.44s`, `1920x1080`, H.264 video with AAC narration)
+Demo video: https://github.com/davidweb3-ctrl/sui-agent-payment-guard/raw/main/demo/sui-agent-payment-guard-demo.mp4 (`81.03s`, `1920x1080`, H.264 video with AAC narration, slide-by-slide audio alignment)
 Move package: move/
 Frontend: app/
 Logo source: assets/logo.svg
@@ -84,5 +84,5 @@ Any repo, package publish, test result, deployment, video, submission, sponsor r
 Last synced:
 
 ```text
-2026-05-30 15:05 CST
+2026-05-30 15:35 CST
 ```
