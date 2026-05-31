@@ -11,7 +11,7 @@ Command center:
 Status:
 
 ```text
-ACTIVE
+SUBMITTED
 ```
 
 Purpose:
@@ -25,6 +25,7 @@ Sui Overflow 2026 / DeepSurge
 Track: The Agentic Web
 Bounty: Core Track
 Deployment network: Testnet
+Project page: https://deepsurge.xyz/projects/a67e6f11-2b41-4b7e-90c1-9424b05a5a3e
 ```
 
 Current artifacts:
@@ -68,9 +69,9 @@ Sui testnet address:
 0x5cc4089ef6deab203236bc9332fa78fde6877f7fe14466c84be716e8c4d1040d
 ```
 
-Still needed:
+Current next action:
 
-- Final DeepSurge submission
+- Monitor DeepSurge/Sui Overflow judging/status and only edit the submitted project for a material correction, organizer request, or broken link.
 
 Sync rule:
 
@@ -84,5 +85,5 @@ Any repo, package publish, test result, deployment, video, submission, sponsor r
 Last synced:
 
 ```text
-2026-05-30 15:35 CST
+2026-05-31 11:19 CST
 ```
